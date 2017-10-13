@@ -1,4 +1,5 @@
-<code_scheme name="Default" version="173">
+<code_scheme name="Default">
+  <option name="RIGHT_MARGIN" value="200" />
   <option name="HTML_KEEP_WHITESPACES" value="true" />
   <option name="HTML_TEXT_WRAP" value="0" />
   <option name="HTML_ALIGN_TEXT" value="true" />
