@@ -1,0 +1,38 @@
+<application>
+  <component name="KeyPromoterXStatistic">
+    <option name="statistics">
+      <Statistic Action="Auto-Indent Lines">
+        <Item>
+          <IdeaActionID>AutoIndentLines</IdeaActionID>
+          <ShortCut>'⌃⌥I'</ShortCut>
+          <Description>Auto-Indent Lines</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Indent Selection">
+        <Item>
+          <IdeaActionID>EditorIndentSelection</IdeaActionID>
+          <ShortCut>'⇥'</ShortCut>
+          <Description>Indent Selection</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Optimize Imports">
+        <Item>
+          <IdeaActionID>OptimizeImports</IdeaActionID>
+          <ShortCut>'⌃⌥O'</ShortCut>
+          <Description>Optimize Imports</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Project">
+        <Item>
+          <IdeaActionID>ActivateProjectToolWindow</IdeaActionID>
+          <ShortCut>'⌘1'</ShortCut>
+          <Description>Project</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+    </option>
+  </component>
+</application>
