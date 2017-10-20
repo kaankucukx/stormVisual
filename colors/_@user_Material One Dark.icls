@@ -4,7 +4,7 @@
     <property name="created">2017-10-13T02:27:32</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2017.3.0.0</property>
-    <property name="modified">2017-10-17T23:15:47</property>
+    <property name="modified">2017-10-20T11:46:52</property>
     <property name="originalScheme">Material One Dark</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.2" />
@@ -45,9 +45,9 @@
     <option name="FILESTATUS_UNKNOWN" value="f77669" />
     <option name="FILESTATUS_modifiedOutside" value="80cbc4" />
     <option name="GUTTER_BACKGROUND" value="282c34" />
-    <option name="INDENT_GUIDE" value="424950" />
+    <option name="INDENT_GUIDE" value="303642" />
     <option name="INFORMATION_HINT" value="263238" />
-    <option name="LINE_NUMBERS_COLOR" value="475f63" />
+    <option name="LINE_NUMBERS_COLOR" value="383e4b" />
     <option name="METHOD_SEPARATORS_COLOR" value="2e3c43" />
     <option name="MODIFIED_LINES_COLOR" value="ffcb6b" />
     <option name="MT_ADDED" value="73c990" />
