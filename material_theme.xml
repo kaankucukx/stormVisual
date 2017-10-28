@@ -3,10 +3,12 @@
     <option name="selectedTheme" value="CUSTOM" />
     <option name="highlightColor" value="ffcd00" />
     <option name="highlightColorEnabled" value="true" />
-    <option name="isContrastMode" value="true" />
+    <option name="isBoldTabs" value="true" />
     <option name="isCustomTreeIndentEnabled" value="true" />
-    <option name="accentColor" value="c6ff00" />
+    <option name="accentColor" value="ffcc00" />
     <option name="wallpaperSet" value="false" />
+    <option name="compactSidebar" value="true" />
+    <option name="themedScrollbars" value="false" />
     <option name="isCompactStatusBar" value="true" />
     <option name="defaultBackground" value="" />
     <option name="upperCaseTabs" value="true" />
