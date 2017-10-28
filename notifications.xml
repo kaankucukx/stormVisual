@@ -1,0 +1,6 @@
+<application>
+  <component name="NotificationConfiguration">
+    <notification groupId="Vcs Silent Notifications" />
+    <notification groupId="Webpack" />
+  </component>
+</application>
