@@ -1,5 +1,18 @@
 <keymap version="1" name="Mac OS X 10.5+ copy" parent="Mac OS X 10.5+">
+  <action id="ActivateTerminalToolWindow">
+    <keyboard-shortcut first-keystroke="meta quotedbl" />
+    <keyboard-shortcut first-keystroke="meta quotedbl" second-keystroke="meta quotedbl" />
+  </action>
   <action id="Cvs.CreateBranch">
     <keyboard-shortcut first-keystroke="alt b" />
+  </action>
+  <action id="MTCustomTheme">
+    <keyboard-shortcut first-keystroke="alt 1" />
+  </action>
+  <action id="ShowAppliedStylesAction">
+    <keyboard-shortcut first-keystroke="alt s" />
+  </action>
+  <action id="com.chrisrm.idea.actions.accents.MTAcidLimeAccentAction">
+    <keyboard-shortcut first-keystroke="alt 2" />
   </action>
 </keymap>
