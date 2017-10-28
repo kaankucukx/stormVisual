@@ -15,4 +15,7 @@
   <action id="com.chrisrm.idea.actions.accents.MTAcidLimeAccentAction">
     <keyboard-shortcut first-keystroke="alt 2" />
   </action>
+  <action id="com.chrisrm.idea.actions.accents.MTFuschiaAccentAction">
+    <keyboard-shortcut first-keystroke="alt 3" />
+  </action>
 </keymap>
