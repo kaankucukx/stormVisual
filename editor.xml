@@ -27,7 +27,7 @@
     <option name="USE_SOFT_WRAPS" value="MAIN_EDITOR" />
     <option name="USE_CUSTOM_SOFT_WRAP_INDENT" value="true" />
     <option name="STRIP_TRAILING_SPACES" value="Whole" />
-    <option name="CARET_BLINKING_PERIOD" value="300" />
+    <option name="CARET_BLINKING_PERIOD" value="200" />
     <option name="SHOW_BREADCRUMBS" value="false" />
     <option name="IS_BLOCK_CURSOR" value="true" />
     <option name="IS_WHITESPACES_SHOWN" value="true" />
