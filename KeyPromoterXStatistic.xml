@@ -86,7 +86,7 @@
           <IdeaActionID>EditorIndentSelection</IdeaActionID>
           <ShortCut>'⇥'</ShortCut>
           <Description>Indent Selection</Description>
-          <Count>1</Count>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Inline...">
@@ -94,7 +94,7 @@
           <IdeaActionID>Inline</IdeaActionID>
           <ShortCut>'⌥⌘N'</ShortCut>
           <Description>Inline...</Description>
-          <Count>1</Count>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Optimize Imports">

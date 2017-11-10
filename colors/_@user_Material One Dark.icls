@@ -4,7 +4,7 @@
     <property name="created">2017-10-13T02:27:32</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2017.3.0.0</property>
-    <property name="modified">2017-11-10T11:19:04</property>
+    <property name="modified">2017-11-11T00:58:05</property>
     <property name="originalScheme">Material One Dark</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.2" />
@@ -28,7 +28,7 @@
   <option name="CONSOLE_LIGATURES" value="true" />
   <option name="CONSOLE_LINE_SPACING" value="1.2" />
   <colors>
-    <option name="ADDED_LINES_COLOR" value="c3e88d" />
+    <option name="ADDED_LINES_COLOR" value="ff2a6b" />
     <option name="ANNOTATIONS_COLOR" value="fffbf7" />
     <option name="CARET_COLOR" value="ffcc00" />
     <option name="CARET_ROW_COLOR" value="303642" />
@@ -81,7 +81,7 @@
     <option name="VCS_ANNOTATIONS_COLOR_4" value="39adb5" />
     <option name="VCS_ANNOTATIONS_COLOR_5" value="f07178" />
     <option name="WHITESPACES" value="2e3c43" />
-    <option name="WHITESPACES_MODIFIED_LINES_COLOR" value="5ae849" />
+    <option name="WHITESPACES_MODIFIED_LINES_COLOR" value="ffcc00" />
   </colors>
   <attributes>
     <option name="ABSTRACT_CLASS_NAME_ATTRIBUTES">
