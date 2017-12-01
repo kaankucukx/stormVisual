@@ -7,12 +7,11 @@
     <option name="isContrastMode" value="true" />
     <option name="isBoldTabs" value="true" />
     <option name="isCustomTreeIndentEnabled" value="true" />
-    <option name="accentColor" value="E91E63" />
+    <option name="accentColor" value="e91e63" />
     <option name="wallpaper" value="$USER_HOME$/Documents/Untitled-1.jpg" />
     <option name="compactSidebar" value="true" />
     <option name="themedScrollbars" value="false" />
     <option name="isCompactStatusBar" value="true" />
     <option name="defaultBackground" value="$USER_HOME$/Documents/Untitled-1.jpg" />
-    <option name="upperCaseTabs" value="true" />
   </component>
 </application>
