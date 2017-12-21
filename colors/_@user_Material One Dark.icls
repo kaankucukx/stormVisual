@@ -4,17 +4,17 @@
     <property name="created">2017-10-13T02:27:32</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2017.3.0.0</property>
-    <property name="modified">2017-11-30T12:10:40</property>
+    <property name="modified">2017-12-21T15:21:46</property>
     <property name="originalScheme">Material One Dark</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.2" />
   <font>
-    <option name="EDITOR_FONT_NAME" value="Lato" />
-    <option name="EDITOR_FONT_SIZE" value="14" />
+    <option name="EDITOR_FONT_NAME" value="Roboto Mono Medium for Powerline" />
+    <option name="EDITOR_FONT_SIZE" value="12" />
   </font>
   <font>
     <option name="EDITOR_FONT_NAME" value="Arial Black" />
-    <option name="EDITOR_FONT_SIZE" value="14" />
+    <option name="EDITOR_FONT_SIZE" value="12" />
   </font>
   <option name="EDITOR_LIGATURES" value="true" />
   <console-font>
