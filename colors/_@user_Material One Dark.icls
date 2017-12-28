@@ -4,7 +4,7 @@
     <property name="created">2017-10-13T02:27:32</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2017.3.0.0</property>
-    <property name="modified">2017-12-24T23:07:35</property>
+    <property name="modified">2017-12-29T01:25:13</property>
     <property name="originalScheme">Material One Dark</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.2" />
@@ -70,11 +70,11 @@
     <option name="QUESTION_HINT" value="263238" />
     <option name="RIGHT_MARGIN_COLOR" value="424950" />
     <option name="SELECTED_INDENT_GUIDE" value="ffcc00" />
-    <option name="SELECTED_TEARLINE_COLOR" value="99b89d" />
-    <option name="SELECTION_BACKGROUND" value="21252b" />
-    <option name="SELECTION_FOREGROUND" value="fffbf7" />
+    <option name="SELECTED_TEARLINE_COLOR" value="f03a52" />
+    <option name="SELECTION_BACKGROUND" value="3d0863" />
+    <option name="SELECTION_FOREGROUND" value="" />
     <option name="SOFT_WRAP_SIGN_COLOR" value="eeeeed" />
-    <option name="TEARLINE_COLOR" value="3b4950" />
+    <option name="TEARLINE_COLOR" value="595b5b" />
     <option name="VCS_ANNOTATIONS_COLOR_1" value="546e7a" />
     <option name="VCS_ANNOTATIONS_COLOR_2" value="2e3c43" />
     <option name="VCS_ANNOTATIONS_COLOR_3" value="37474f" />
@@ -1659,9 +1659,9 @@
     <option name="MATCHED_BRACE_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="ff0049" />
-        <option name="FONT_TYPE" value="1" />
+        <option name="FONT_TYPE" value="3" />
         <option name="EFFECT_COLOR" value="b39613" />
-        <option name="EFFECT_TYPE" value="1" />
+        <option name="EFFECT_TYPE" value="4" />
       </value>
     </option>
     <option name="MESSAGE_ARGUMENT">
