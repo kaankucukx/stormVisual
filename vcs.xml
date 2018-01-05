@@ -14,9 +14,13 @@
           <option name="url" value="http://gitlab.positive.com.tr/toyzzshop/site-v2.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@github.com:santiblanko/vue-instant.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="$USER_HOME$/PhpstormProjects" />
+    <option name="cloneParentDir" value="$USER_HOME$/Documents/Git Things" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="SHOW_TAG_NAMES" value="true" />
