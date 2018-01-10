@@ -4,7 +4,7 @@
     <property name="created">2017-10-13T02:27:32</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2017.3.0.0</property>
-    <property name="modified">2017-12-29T01:25:13</property>
+    <property name="modified">2018-01-10T21:37:34</property>
     <property name="originalScheme">Material One Dark</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.2" />
@@ -1659,6 +1659,7 @@
     <option name="MATCHED_BRACE_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="ff0049" />
+        <option name="BACKGROUND" value="c39c00" />
         <option name="FONT_TYPE" value="3" />
         <option name="EFFECT_COLOR" value="b39613" />
         <option name="EFFECT_TYPE" value="4" />
