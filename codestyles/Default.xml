@@ -12,7 +12,7 @@
   <option name="HTML_KEEP_LINE_BREAKS_IN_TEXT" value="false" />
   <option name="HTML_ENFORCE_QUOTES" value="true" />
   <HTMLCodeStyleSettings>
-    <option name="HTML_KEEP_WHITESPACES" value="true" />
+    <option name="HTML_TEXT_WRAP" value="0" />
     <option name="HTML_KEEP_LINE_BREAKS" value="false" />
     <option name="HTML_KEEP_LINE_BREAKS_IN_TEXT" value="false" />
     <option name="HTML_ELEMENTS_TO_INSERT_NEW_LINE_BEFORE" value="body,div,p,form,h1,h2,h3,a" />
