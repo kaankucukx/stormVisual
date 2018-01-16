@@ -32,9 +32,6 @@
   <PHPCodeStyleSettings>
     <option name="INDENT_CODE_IN_PHP_TAGS" value="true" />
   </PHPCodeStyleSettings>
-  <editorconfig>
-    <option name="ENABLED" value="false" />
-  </editorconfig>
   <codeStyleSettings language="Blade">
     <indentOptions>
       <option name="INDENT_SIZE" value="2" />
