@@ -1,4 +1,5 @@
 <code_scheme name="Default" version="173">
+  <option name="AUTODETECT_INDENTS" value="false" />
   <option name="OTHER_INDENT_OPTIONS">
     <value>
       <option name="INDENT_SIZE" value="2" />
@@ -11,13 +12,20 @@
   <option name="HTML_KEEP_LINE_BREAKS" value="false" />
   <option name="HTML_KEEP_LINE_BREAKS_IN_TEXT" value="false" />
   <option name="HTML_ENFORCE_QUOTES" value="true" />
+  <option name="FORMATTER_TAGS_ENABLED" value="true" />
+  <option name="FORMATTER_TAGS_ACCEPT_REGEXP" value="true" />
+  <CssCodeStyleSettings>
+    <option name="HEX_COLOR_LOWER_CASE" value="true" />
+    <option name="HEX_COLOR_LONG_FORMAT" value="true" />
+  </CssCodeStyleSettings>
   <HTMLCodeStyleSettings>
     <option name="HTML_KEEP_WHITESPACES" value="true" />
     <option name="HTML_ATTRIBUTE_WRAP" value="4" />
     <option name="HTML_KEEP_LINE_BREAKS" value="false" />
-    <option name="HTML_KEEP_LINE_BREAKS_IN_TEXT" value="false" />
-    <option name="HTML_ELEMENTS_TO_INSERT_NEW_LINE_BEFORE" value="body,div,p,form,h1,h2,h3,a,input,span" />
+    <option name="HTML_SPACE_INSIDE_EMPTY_TAG" value="true" />
+    <option name="HTML_ELEMENTS_TO_INSERT_NEW_LINE_BEFORE" value="body,div,p,form,h1,h2,h3,a,input,span,img" />
     <option name="HTML_KEEP_WHITESPACES_INSIDE" value="pre,textarea" />
+    <option name="HTML_DONT_ADD_BREAKS_IF_INLINE_CONTENT" value="title,h1,h2,h3,h4,h5,h6,p,a" />
     <option name="HTML_QUOTE_STYLE" value="None" />
   </HTMLCodeStyleSettings>
   <JSCodeStyleSettings>
@@ -26,8 +34,10 @@
     <option name="SPACE_BEFORE_GENERATOR_MULT" value="true" />
     <option name="USE_DOUBLE_QUOTES" value="false" />
     <option name="FORCE_QUOTE_STYlE" value="true" />
+    <option name="ENFORCE_TRAILING_COMMA" value="WhenMultiline" />
     <option name="JSX_ATTRIBUTE_VALUE" value="None" />
     <option name="SPACES_WITHIN_IMPORTS" value="true" />
+    <option name="CHAINED_CALL_DOT_ON_NEW_LINE" value="false" />
   </JSCodeStyleSettings>
   <PHPCodeStyleSettings>
     <option name="INDENT_CODE_IN_PHP_TAGS" value="true" />
@@ -44,7 +54,10 @@
   </codeStyleSettings>
   <codeStyleSettings language="CSS">
     <indentOptions>
-      <option name="USE_TAB_CHARACTER" value="true" />
+      <option name="INDENT_SIZE" value="2" />
+      <option name="CONTINUATION_INDENT_SIZE" value="2" />
+      <option name="TAB_SIZE" value="2" />
+      <option name="SMART_TABS" value="true" />
     </indentOptions>
   </codeStyleSettings>
   <codeStyleSettings language="HTML">
@@ -52,19 +65,36 @@
       <option name="INDENT_SIZE" value="2" />
       <option name="CONTINUATION_INDENT_SIZE" value="2" />
       <option name="TAB_SIZE" value="2" />
-      <option name="KEEP_INDENTS_ON_EMPTY_LINES" value="true" />
     </indentOptions>
   </codeStyleSettings>
   <codeStyleSettings language="JavaScript">
+    <option name="RIGHT_MARGIN" value="80" />
     <option name="KEEP_BLANK_LINES_IN_CODE" value="1" />
     <option name="SPACE_BEFORE_METHOD_PARENTHESES" value="true" />
+    <option name="CALL_PARAMETERS_WRAP" value="1" />
+    <option name="METHOD_PARAMETERS_WRAP" value="1" />
+    <option name="METHOD_PARAMETERS_LPAREN_ON_NEXT_LINE" value="true" />
+    <option name="METHOD_CALL_CHAIN_WRAP" value="5" />
+    <option name="BINARY_OPERATION_WRAP" value="1" />
+    <option name="TERNARY_OPERATION_WRAP" value="5" />
     <option name="TERNARY_OPERATION_SIGNS_ON_NEXT_LINE" value="true" />
     <option name="KEEP_SIMPLE_BLOCKS_IN_ONE_LINE" value="true" />
     <option name="KEEP_SIMPLE_METHODS_IN_ONE_LINE" value="true" />
+    <option name="ARRAY_INITIALIZER_WRAP" value="5" />
+    <option name="ARRAY_INITIALIZER_LBRACE_ON_NEXT_LINE" value="true" />
     <indentOptions>
       <option name="INDENT_SIZE" value="2" />
       <option name="CONTINUATION_INDENT_SIZE" value="2" />
       <option name="TAB_SIZE" value="2" />
+    </indentOptions>
+  </codeStyleSettings>
+  <codeStyleSettings language="LESS">
+    <indentOptions>
+      <option name="CONTINUATION_INDENT_SIZE" value="2" />
+      <option name="TAB_SIZE" value="2" />
+      <option name="USE_TAB_CHARACTER" value="true" />
+      <option name="SMART_TABS" value="true" />
+      <option name="KEEP_INDENTS_ON_EMPTY_LINES" value="true" />
     </indentOptions>
   </codeStyleSettings>
   <codeStyleSettings language="PHP">

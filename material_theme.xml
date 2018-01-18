@@ -1,5 +1,6 @@
 <application>
   <component name="MaterialThemeConfig">
+    <option name="version" value="1.5.4" />
     <option name="selectedTheme" value="CUSTOM" />
     <option name="highlightColor" value="ffcd00" />
     <option name="highlightColorEnabled" value="true" />
@@ -10,6 +11,5 @@
     <option name="compactSidebar" value="true" />
     <option name="themedScrollbars" value="false" />
     <option name="isCompactStatusBar" value="true" />
-    <option name="defaultBackground" value="" />
   </component>
 </application>

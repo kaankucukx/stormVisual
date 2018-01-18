@@ -1,0 +1,8 @@
+<keymap version="1" name="Kaan WebStorm" parent="Mac OS X 10.5+">
+  <action id="Git.Branches">
+    <keyboard-shortcut first-keystroke="meta alt 1" />
+  </action>
+  <action id="Git.CreateNewBranch">
+    <keyboard-shortcut first-keystroke="meta alt 2" />
+  </action>
+</keymap>
