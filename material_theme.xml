@@ -9,7 +9,7 @@
     <option name="isCustomTreeIndentEnabled" value="true" />
     <option name="accentColor" value="e91e63" />
     <option name="compactSidebar" value="true" />
-    <option name="themedScrollbars" value="false" />
     <option name="isCompactStatusBar" value="true" />
+    <option name="darkTitleBar" value="true" />
   </component>
 </application>
