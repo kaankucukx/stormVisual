@@ -4,7 +4,7 @@
     <property name="created">2017-10-13T02:27:32</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2017.3.0.0</property>
-    <property name="modified">2018-01-10T21:37:34</property>
+    <property name="modified">2018-01-28T04:10:04</property>
     <property name="originalScheme">Material One Dark</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.2" />
@@ -31,7 +31,7 @@
     <option name="ADDED_LINES_COLOR" value="ff2a6b" />
     <option name="ANNOTATIONS_COLOR" value="fffbf7" />
     <option name="CARET_COLOR" value="ffcc00" />
-    <option name="CARET_ROW_COLOR" value="303642" />
+    <option name="CARET_ROW_COLOR" value="280842" />
     <option name="CONSOLE_BACKGROUND_KEY" value="21252b" />
     <option name="DELETED_LINES_COLOR" value="f07178" />
     <option name="DIFF_SEPARATORS_BACKGROUND" value="1e2a30" />
@@ -65,7 +65,7 @@
     <option name="MT_MODIFIED" value="e2c08d" />
     <option name="MT_RENAMED" value="6494ed" />
     <option name="MT_SUPPRESSED" value="979fad" />
-    <option name="NOTIFICATION_BACKGROUND" value="3d1a11" />
+    <option name="NOTIFICATION_BACKGROUND" value="3d0863" />
     <option name="NOT_CHANGED" value="979fad" />
     <option name="QUESTION_HINT" value="263238" />
     <option name="RIGHT_MARGIN_COLOR" value="424950" />
@@ -3110,6 +3110,11 @@
     <option name="Type parameter">
       <value>
         <option name="FOREGROUND" value="f78c6c" />
+      </value>
+    </option>
+    <option name="UNMATCHED_BRACE_ATTRIBUTES">
+      <value>
+        <option name="FOREGROUND" value="542aff" />
       </value>
     </option>
     <option name="Unresolved reference access">
